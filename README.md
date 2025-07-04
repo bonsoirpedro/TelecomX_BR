@@ -16,9 +16,11 @@ Este projeto tem como objetivo analisar o comportamento de cancelamento de clien
 ## 📂 Estrutura do Projeto
 
 ```bash
-📁 telecom_churn_analysis/
 ├── 📊 TelecomX_BR.ipynb      # Notebook com análise completa
 ├── 📁 assets/
-│   ├── subplots.png                      # Gráficos gerados na EDA
-│   └── correlacao_conta_diaria.png      # Gráfico de correlação extra
+│   ├── subplots.png                      # Subplots com visão geral da EDA
+│   ├── correlacao_conta_diaria.png      # Dispersão entre conta diária e churn
+│   ├── taxa_pagamento.png               # Cancelamento por forma de pagamento
+│   ├── taxa_parceiro.png                # Taxa de churn por presença de parceiro
+│   └── taxa_servicos.png                # Relação entre quantidade de serviços e churn
 ├── README.md                             # Este arquivo
