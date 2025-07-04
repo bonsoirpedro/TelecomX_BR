@@ -17,7 +17,7 @@ Este projeto tem como objetivo analisar o comportamento de cancelamento de clien
 
 ```bash
 📁 telecom_churn_analysis/
-├── 📊 TelecomX_Churn_Analysis.ipynb      # Notebook com análise completa
+├── 📊 TelecomX_BR.ipynb      # Notebook com análise completa
 ├── 📁 assets/
 │   ├── subplots.png                      # Gráficos gerados na EDA
 │   └── correlacao_conta_diaria.png      # Gráfico de correlação extra
